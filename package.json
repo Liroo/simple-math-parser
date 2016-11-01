@@ -1,0 +1,22 @@
+{
+  "name": "simple-math-parser",
+  "version": "1.0.0",
+  "description": "Simple Math Parser",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Liroo/simple-math-parser.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Liroo/simple-math-parser/issues"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  }
+}
